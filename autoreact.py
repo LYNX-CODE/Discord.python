@@ -15,7 +15,7 @@ async def on_message(message):
 
 bot.run("") # Hier Token einfügen
 
-#                               BLUE Discord: https://discord.gg/germany
+#                               Treffzentrum Discord: https://discord.gg/Na9fEdr
 #
 #
 # To-Do
